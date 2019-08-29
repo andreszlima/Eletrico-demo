@@ -21,7 +21,7 @@ Não, já que foi criado para que empresas consigam ganhar dinheiro de forma mai
 
 #### Dados técnicos
 
-Linguagens de programação: Ruby, HTML5, CSS3, SCSS, Javascript, Coffeescript<br>
+Linguagens de programação: Ruby, HTML5, CSS3, SASS, Javascript, Coffeescript<br>
 Framework: Ruby on Rails<br>
 Banco de dados utilizado: PostgreSQL<br>
 
